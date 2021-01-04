@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mad Level 5 Task 2</string>
+    <string name="title_activity_add_game">Add Game</string>
+
+    <string name="title_label">Title</string>
+    <string name="platform_label">Platform</string>
+    <string name="day_label">Day</string>
+    <string name="month_label">Month</string>
+    <string name="year_label">Year</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
